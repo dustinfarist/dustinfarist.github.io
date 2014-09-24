@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ecf0f1;
+}
+
+#avatar {
+    width: 320px;
+    height: 320px;
+    background-color: #16a085;
+    padding: 40px;
+}
