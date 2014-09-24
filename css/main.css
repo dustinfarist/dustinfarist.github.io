@@ -4,12 +4,15 @@
 }
 
 body {
-    background-color: #ecf0f1;
+    background-color: #eceff1;
 }
 
 #avatar {
-    width: 320px;
-    height: 320px;
-    background-color: #16a085;
-    padding: 40px;
+    margin: 128px auto 0;
+    border: 1px solid #0097a7;
+    border-radius: 8px;
+    width: 128px;
+    height: 128px;
+    background-color: #00bcd4;
+    padding: 32px;
 }
